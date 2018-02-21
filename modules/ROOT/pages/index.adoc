@@ -1,0 +1,8 @@
+= PlantUML Demo
+
+[plantuml]
+----
+alice -> bob
+bob -> alice
+----
+
