@@ -1,5 +1,5 @@
-name: hrzn
-title: PlantUML Demo
+name: asciidoctor-plantuml-antora
+title: Asciidoctor PlantUML in Antora
 version: master
 start_page: ROOT:index.adoc
 nav:
