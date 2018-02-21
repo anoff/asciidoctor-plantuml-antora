@@ -1,7 +1,5 @@
 = PlantUML Demo
 
-:plantuml-server-url: http://www.plantuml.com/plantuml
-
 [plantuml]
 ----
 alice -> bob
