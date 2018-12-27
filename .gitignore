@@ -2,4 +2,6 @@ build
 node_modules
 package-lock.json
 .antora-cache
-
+_images
+package.json
+yarn.lock
