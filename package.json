@@ -1,0 +1,22 @@
+{
+  "name": "asciidoctor-plantuml-antora",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshepelyuk/asciidoctor-plantuml-antora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eshepelyuk/asciidoctor-plantuml-antora/issues"
+  },
+  "homepage": "https://github.com/eshepelyuk/asciidoctor-plantuml-antora#readme",
+  "devDependencies": {
+    "asciidoctor-plantuml": "^0.12.0"
+  }
+}

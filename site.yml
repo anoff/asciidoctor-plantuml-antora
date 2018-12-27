@@ -10,7 +10,7 @@ ui:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
 asciidoc:
   extensions:
-    - asciidoctor-plantuml
+    - './lib/asciidoctor-plantuml-adapter.js'
   attributes:
     plantuml-server-url: 'http://www.plantuml.com/plantuml'
     plantuml-fetch-diagram: true
