@@ -1,6 +1,3 @@
-name: asciidoctor-plantuml-antora
-title: Asciidoctor PlantUML in Antora
-version: master
-start_page: ROOT:index.adoc
-nav:
-  - modules/ROOT/nav.adoc
+name: antora_puml
+title: Antora with PlantUML
+version: '1.0'

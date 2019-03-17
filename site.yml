@@ -1,10 +1,11 @@
 site:
-  title: Antora Demo Site
-  start_page: asciidoctor-plantuml-antora::index.adoc
+  title: Antora with PlantUML
+  start_page: antora_puml::index.adoc
 content:
   sources:
   - url: .
     branches: master
+    start_path: .
 ui:
   bundle: 
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
