@@ -1,0 +1,26 @@
+= Integration of Asciidoctor PlantUML with Antora
+
+To build and run sample `Antora` site with PlantUML support.
+
+. Clone this project from GitHub
+
+  $ git clone https://github.com/eshepelyuk/asciidoctor-plantuml-antora.git
+  $ cd asciidoctor-plantuml-antora
+
+. Install required modules
+
+  $ yarn global add @antora/cli @antora/site-generator-default serve
+  $ yarn install
+
+. Generate site
+
+  $ antora generate site.yml
+
+. Start web server
+
+  $ serve build
+
+. Check results
+
+Open http://localhost:5000 in browser.
+
