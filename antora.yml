@@ -1,3 +1,6 @@
 name: antora_puml
 title: Antora with PlantUML
 version: '1.0'
+start_page: ROOT:puml.adoc
+nav:
+  - modules/ROOT/nav.adoc

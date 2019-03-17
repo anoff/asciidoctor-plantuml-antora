@@ -1,6 +1,6 @@
 site:
   title: Antora with PlantUML
-  start_page: antora_puml::index.adoc
+  start_page: antora_puml:ROOT:puml.adoc
 content:
   sources:
   - url: .
