@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "asciidoctor-plantuml": "^1.0.2",
+    "asciidoctor.js": "^1.5.9"
+  }
+}
